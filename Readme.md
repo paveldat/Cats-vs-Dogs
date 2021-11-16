@@ -1,7 +1,7 @@
 # Task
 Write a neural network that can distinguish between two classes: cats and dogs.
 # Files
-* Download "nnetTransfer.mat" from here:
+* Download all the files you need from here:
 ```
 https://csspbstu-my.sharepoint.com/:u:/g/personal/dats_p_edu_spbstu_ru/EZ3lK4RYVwtDv6Z61TDRepgBQj3LXQ3fvpPoeVHFH6ZwTA?e=aQ29SO
 ```
