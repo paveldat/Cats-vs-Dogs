@@ -1,6 +1,10 @@
 # Task
 Write a neural network that can distinguish between two classes: cats and dogs.
 # Files
+* Download "nnetTransfer.mat" from here:
+```
+https://csspbstu-my.sharepoint.com/:u:/g/personal/dats_p_edu_spbstu_ru/EZ3lK4RYVwtDv6Z61TDRepgBQj3LXQ3fvpPoeVHFH6ZwTA?e=aQ29SO
+```
 * Main file to run: dandelions.m
 * Images of cats and dogs are located in the "petImagesSelected" folder.
 * The images I used for testing are in the "myPictures" folder.
